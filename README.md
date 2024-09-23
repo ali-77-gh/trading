@@ -1,7 +1,7 @@
-trading\
-machine learning\
-robot trading\
-data analysist\
+trading\📊
+machine learning\⏳
+robot trading\🪙
+data analysist\📈
 indicators\
 strategy\
-forex\
+forex\🗠
